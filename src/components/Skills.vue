@@ -15,19 +15,17 @@
                 <div class="skill-list-1">
                     <span class="underline">HTML</span><br/>
                     <span class="underline">CSS</span><br/>
+                    <span class="underline">SCSS</span><br/>
                     <span class="underline">Vanilla JS</span><br/>
                     <span class="underline">React.js</span><br/>
-                    <span class="underline">Redux</span><br/>
-                    
                 </div>
 
                 <div class="skill-list-2">
+                    <span class="underline">Redux</span><br/>
                     <span class="underline">jQuery</span><br/>
                     <span class="underline">Vue.js</span><br/>
                     <span class="underline">Bootstrap</span><br/>
-                    <span class="underline">PHP</span><br/>
-                    <span class="underline">C#</span><br/>
-                    
+                    <span class="underline">PHP</span><br/>                    
                 </div>
 
             </div>
