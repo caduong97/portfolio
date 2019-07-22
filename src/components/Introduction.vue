@@ -15,7 +15,7 @@
         <ul>
             <li><a href="https://github.com/caduong97" target="_blank"><i class="fab fa-github"></i></a></li>
             <li><a href="https://www.linkedin.com/in/ca-duong-901710143/" target="_blank"><i class="fab fa-linkedin"></i></a></li>
-            <li><a href="https://drive.google.com/file/d/1HIJsbWsb3rNGnknyBx0MZ_osRetd9gKS/view?usp=sharing" target="_blank"><i class="far fa-sticky-note"></i></a></li>
+            <li><a href="https://drive.google.com/file/d/1Rxt3JBpxxQPEpyQLJIqPawGly5xEgNkS/view?usp=sharing" target="_blank"><i class="far fa-sticky-note"></i></a></li>
         </ul>
         
         <div v-on:click="scrollTo" class="scroll-down"><i class="fas fa-sort-down"></i></div>
