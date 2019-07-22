@@ -38,7 +38,7 @@
                     <textarea v-model="message"></textarea>
                     
                     <button v-if="!isLoading" type="submit" class="button" v-on:click="submit"><span><b>Send</b></span></button>
-                    <button v-else type="submit" class="button"><b>Sending...</b></button>
+                    <!-- <button v-else type="submit" class="button"><b>Sending...</b></button> -->
                 </form>
 
                 <div v-if="formSubmitted" class="response">Thank you! Your message has been sent.</div>
@@ -314,10 +314,16 @@
             .contact-container {
                 width: 500px;
                 overflow: scroll;
-                font-size: 0.9em;
+                
 
                 .about-me {
                     width: 100%;
+                        
+                    div {
+                        font-size: 0.9em;
+                    }
+                    
+                    
 
 
                     .write-mes {
@@ -332,6 +338,17 @@
                 .contact-form {
                     width: 100%;
 
+                    form {
+
+                        input[type=text] {
+                            font-size: 0.9em;
+                        }
+
+                        button {
+                            line-height: 40px;
+                        }
+                    }
+
                 }
             }
         }
@@ -342,6 +359,21 @@
         .contact {
             .contact-container {
                 width: 100vw;
+                // font-size: 0.8em;
+
+                .about-me {
+                    display: none;
+                }
+
+                .contact-form {
+
+                    form {
+                        label {
+                            font-size: 0.8em;
+                        }
+                    }
+                    
+                }
             }
         }
     }

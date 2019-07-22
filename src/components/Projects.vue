@@ -21,7 +21,9 @@
 
                 <div class="project-description">
                     <p>I took a course named Real-life IT Project and Practices in which we designed and coded for SELLGAMES 2020 - a real student sport competition.<br/>
-                        The project aimed for a user-friendly, cooperative, not just informative but also dynamic website to present information and news about the SELL GAMES 2020 event. 
+                        The project aimed for a user-friendly, cooperative, not just informative but also dynamic website to present information and news about the SELL GAMES 2020 event. <br/>
+                        Tech stack: React.js, CSS, SCSS, Express, Node.js, NPM, MongoDB, Mongoose <br/>
+                        My role: a designer and a front-end developer <br/>
                     </p>
                 </div>
             </div>
@@ -52,7 +54,9 @@
 
                 <div class="project-description">
                     <p>Agile Web Application Development Project is a project course where we applied the theory of agile software development methods to a group work project, aiming to develop an application of our preference. <br/>
-                        Our group created a mobile carrier application, which allow users to check up on their current prepaid package and top up or buy another packages as they wish. 
+                        Our group created a mobile carrier application, which allow users to check up on their current prepaid package and top up or buy another packages as they wish. <br/>
+                        Tech stack: HTML, CSS, PHP, MySQL <br/>
+                        My role: a designer and a front-end + back-end developer <br/>
                     </p>
                     <br/>
                 </div>

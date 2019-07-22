@@ -180,6 +180,10 @@
                 .contact-form {
                     width: 100%;
                     height: 170px;
+
+                    button {
+                        font-size: 1em;
+                    }
                     
                 }
 
